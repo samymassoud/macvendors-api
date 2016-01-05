@@ -9,6 +9,11 @@
             "email": "info@macvendors.co"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "macvendors_co": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }

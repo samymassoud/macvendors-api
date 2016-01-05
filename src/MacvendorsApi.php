@@ -6,7 +6,7 @@
 	 */
  namespace macvendors_co;
  
- class MacVendorsApi{
+ class MacvendorsApi{
 	 
 	 private $api_link = "http://macvendors.co/api/";
 	 private $response_type = 'json';

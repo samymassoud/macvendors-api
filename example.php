@@ -1,5 +1,5 @@
 <?php 
-include "macvendor_api.php";
+include "src/MacvendorsApi.php";
 use \macvendors_co;
 
 $api = new \macvendors_co\MacVendorsApi();
