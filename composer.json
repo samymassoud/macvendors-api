@@ -1,5 +1,5 @@
 {
-    "name": "macvendors.co/macvendors-api",
+    "name": "macvendors/macvendors-api",
     "description": "Macvendors.co Lookup API in PHP,Lookup for vendors name using mac address",
     "type": "API",
     "license": "MIT",
